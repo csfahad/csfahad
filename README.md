@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react,real-world bug hunting**
 
-- 📄 Know about my experiences [{https://text-utils-csfahad.vercel.app/, https://covid-19-tracker-csfahad.vercel.app/}]({https://text-utils-csfahad.vercel.app/, https://covid-19-tracker-csfahad.vercel.app/})
+- 📄 Know about my experiences [https://text-utils-csfahad.vercel.app/, https://covid-19-tracker-csfahad.vercel.app/](https://text-utils-csfahad.vercel.app/, https://covid-19-tracker-csfahad.vercel.app/)
 
 - ⚡ Fun fact **- I'm not Funny**
 
