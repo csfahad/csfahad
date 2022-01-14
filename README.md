@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Cs Fahad here...</h1>
+<h1 align="center">Hey 👋, Cs Fahad here...</h1>
 <h3 align="center">A Full MERN-stack developer,Open Source Contributor,DevOps Folk and A CyberSecurity Geek as well from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csfahad&label=Profile%20views&color=0e75b6&style=flat" alt="csfahad" /> </p>
