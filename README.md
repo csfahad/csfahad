@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react,real-world bug hunting**
 
-- 📄 Know about my experiences [* Text-utils App : https://text-utils-csfahad.vercel.app/, * Covid-19 tracker App: https://covid-19-tracker-csfahad.vercel.app/, * Netflix-clone: https://netflix-clone-a6336.web.app/]
+- 📄 Know about my experiences [* Text-utils App : https://text-utils-csfahad.vercel.app/, * Covid-19 tracker App: https://covid-19-tracker-csfahad.vercel.app/, * Netflix-clone: https://netflix-clone-a6336.web.app/, * Tesla-clone: https://tesla-clone-dbe47.web.app/]
 
 - ⚡ Fun fact **- I'm not Funny**
 
