@@ -15,7 +15,7 @@
 
 - 🤝 Interested in exploring **DevOps and Cloud native Architecture**
 
-- 👨‍💻 Visit: [csfahad-portfolio.vercel.app](csfahad-portfolio.vercel.app)
+- 👨‍💻 Visit: [https://csfahad-portfolio.vercel.app](csfahad-portfolio.vercel.app)
 
 - 💬 Looking forward to get an Internship/SDE-1 **position at MNCs/Remote Startups**
 
