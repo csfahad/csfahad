@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csfahad" alt="csfahad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/fahad_cs" target="_blank"><img src="https://img.shields.io/twitter/follow/fahad_cs?logo=twitter&style=for-the-badge" alt="fahad_cs" /></a> </p>
+<p align="left"> <a href="https://x.com/csfahad_x" target="_blank"><img src="https://img.shields.io/twitter/follow/csfahad_x?logo=twitter&style=for-the-badge" alt="csfahad_x" /></a> </p>
 
 - 🔭 Currently working with **NextJS and exploring React Native stuff**
 
