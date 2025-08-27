@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Cs Fahad here...</h1>
+<h1 align="center">Hey 👋, Fahad here...</h1>
 <h3 align="center">Software Engineer | Full stack developer | Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csfahad&label=Profile%20views&color=0e75b6&style=flat" alt="csfahad" /> </p>
