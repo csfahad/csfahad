@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Fahad here...</h1>
-<h3 align="center">Software Engineer | Full stack developer | Open Source Contributor</h3>
+<h3 align="center">Full Stack Dev | Student | 22 | Indie hacking | Code → Commit → Collaborate</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=csfahad"/>
@@ -17,7 +17,6 @@
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csfahad&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=csfahad&bg_color=242424&color=e1dbe1&line=3eda58&point=ffffff&area=true&hide_border=true)%5D(https://github.com/ashutosh00710/github-readme-activity-graph" width="100%" alt="github activity graph"/>
 </p>
 
 <h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
@@ -172,17 +171,5 @@
       </a>
       <br>Webpack
     </td>
-  </tr>
-</table>
-
-<table align="center">
- <h2 align="center">Connect with Me!</h2>
-<tr>
-  <td align="center"><code><a href="https://www.linkedin.com/in/csfahad/" target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a></code></td>
-  <td align="center"><code><a href="https://x.com/csfahad_x"  target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a></code></td>
-   </tr>
-  <tr>
-  <td align="center"><code><a href="https://www.linkedin.com/in/csfahad/" title="reach" target="_blank" >Linkedin</a></code></td>
-  <td align="center"><code><a href="https://x.com/csfahad_x" title="reach" target="_blank" >Twitter</a></code></td>
   </tr>
 </table>
