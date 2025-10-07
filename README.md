@@ -1,5 +1,4 @@
-<h1 align="center">Hey 👋, Fahad here...</h1>
-<h3 align="center">Full Stack Dev | Student | 22 | Indie hacking | Code → Commit → Collaborate</h3>
+<h2 align="center">Full Stack Dev | Student | 22 | Indie hacking | Code → Commit → Collaborate</h2>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=csfahad"/>
